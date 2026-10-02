@@ -7,6 +7,7 @@ Welcome to my academic projects repository! This repository contains a collectio
 | Project | Description | 
 | :--- | :--- | 
 | **[N-Gram Word Prediction Model](./n-gram-word-prediction)** | A word prediction model using N-Grams built for NLP. |
+| **[Mystic Mage](./mystic-mage)** | A C++ and OpenGL based game project. |
 | **[Political Compass Game](./political-compass-game)** | An interactive political compass game/quiz. |
 | **[Snake Game](./snake-game)** | A classic snake game implementation. |
 
