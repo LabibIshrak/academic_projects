@@ -9,7 +9,7 @@ Welcome to my academic projects repository! This repository contains a collectio
 | **[N-Gram Word Prediction Model](./n-gram-word-prediction)** | A word prediction model using N-Grams built for NLP. |
 | **[Mystic Mage](./mystic-mage)** | A C++ and OpenGL based game project. |
 | **[Political Compass Game](./political-compass-game)** | An interactive political compass game/quiz. |
-| **[Bongojatra](./bongojatra)** | *(Details coming soon)* |
+| **[Bongojatra](./bongojatra)** | A Bangladesh unified transport search system (Flutter + Java backend with Groq AI). |
 | **[Snake Game](./snake-game)** | A classic snake game implementation. |
 
 *(Click on any project name above to view its source code and specific documentation)*
